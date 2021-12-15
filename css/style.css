@@ -1,0 +1,387 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;1,100;1,200&family=Readex+Pro:wght@200&display=swap');
+
+a:hover{text-decoration: none;}
+img {
+    max-width: 100%;
+    height: auto;
+}
+header{
+    font-family: poppins;
+}
+.welcome_area {
+    position: relative;
+    z-index: 1;
+}
+
+.logo a, .mainmenu a {
+    color: rgb(53, 48, 48);
+    text-decoration: none;
+}
+
+.logo {
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: 500;
+    padding-top: 10px;
+}
+
+.mainmenu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.mainmenu li {
+    display: inline-block;
+    position: relative;
+}
+
+.mainmenu li a {
+    display: block;
+    padding: 18px 17px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+
+.header-right-content {
+    padding-top: 16px;
+}
+
+.header-right-content a {
+    color: #000;
+    font-size: 20px;
+}
+
+.social-links {
+    display: inline-block;
+    margin-right: 50px;
+    border-left: 1px solid black;
+    padding-left: 30px;
+    margin-left: 20px;
+}
+
+a {}
+
+.social-links a {
+    font-size: 18px;
+    display: inline-block;
+    padding: 0 4px;
+}
+
+.header_area {
+    padding: 30px 0;
+    background: rgb(243, 243, 243);
+}
+
+/*hero START*/
+
+a:hover{text-decoration: none;}
+img {
+    max-width: 100%;
+    height: auto;
+}
+header{
+    font-family: poppins;
+}
+.welcome_area {
+    position: relative;
+    z-index: 1;
+}
+
+.logo a, .mainmenu a {
+    color: rgb(53, 48, 48);
+    text-decoration: none;
+}
+
+.logo {
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: 500;
+    padding-top: 10px;
+}
+
+.mainmenu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.mainmenu li {
+    display: inline-block;
+    position: relative;
+}
+
+.mainmenu li a {
+    display: block;
+    padding: 18px 17px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+
+.header-right-content {
+    padding-top: 16px;
+}
+
+.header-right-content a {
+    color: #000;
+    font-size: 20px;
+}
+
+.social-links {
+    display: inline-block;
+    margin-right: 50px;
+    border-left: 1px solid black;
+    padding-left: 30px;
+    margin-left: 20px;
+}
+
+a {}
+
+.social-links a {
+    font-size: 18px;
+    display: inline-block;
+    padding: 0 4px;
+}
+
+.header_area {
+    padding: 30px 0;
+    background: rgb(233, 231, 229);
+}
+/*hERO SECTION*/
+.hero_left {
+    margin-top: 200px;
+}
+
+.hero_left h6 {
+    letter-spacing: 2px;
+    font-weight: 500;
+}
+
+.hero_left h1 {
+    font-size: 60px;
+    line-height: 1.3;
+}
+.btn.btn-light.primary-btn{
+    background: red;
+    color: white;
+    letter-spacing: 2px;
+    padding: 15px 40px;
+    margin-top: 30px;
+    border: none;
+}
+
+.hero_area {
+    height: 760px;
+    background: url("../images/ban-1.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+/*Featured*/
+.featured.text-center {
+    font-family: 'Poppins';
+    padding: 20px;
+    background: #f8f7f59a;
+}
+
+
+.featured.text-center h2 {
+    font-size: 35px;
+    font-weight: bold;
+    margin: 30px 0 60px 0;
+}
+.fe-img {
+    margin-bottom: 30px;
+}
+
+.fe-img h3 {font-size: 25px;margin: 10px 0px;}
+
+.fe-img p {
+    margin: 35px 0px 5px 0px;
+    color: #a79696;
+}
+.fe-img a {
+    text-decoration: none;
+    background: rgb(0, 110, 255);
+    padding: 7px 15px;
+    color: white;
+    font-size: 14px;
+    border-radius: 3px;
+}
+i.fas.fa-star {}
+
+.fe-img span {
+    font-size: 13px;
+    color: ;
+}
+/*OFF section*/
+.off_section {
+    background: radial-gradient(#ffffff, #0000003b);
+}
+.off-left.text-center {margin-top: 150px;}
+
+.off-left h1 {
+    font-size: 60px;
+    font-style: italic;
+}
+
+.off-left p {
+    font-size: 25px;
+    font-weight: 300;
+    letter-spacing: 1.2px;
+    margin-top: 25px;
+}
+/*OFF section end*/
+/*popular*/
+.popular.text-center {
+    font-family: 'Poppins';
+    padding: 20px;
+}
+.popular.text-center h2 {
+    font-size: 35px;
+    font-weight: bold;
+    margin: 30px 0 60px 0;
+    font-family: 'Poppins';
+}
+.checked{
+    color:#ffc43f;
+}
+/*popular end*/
+/*Service Box Startr*/
+.service {
+    padding: ;
+}
+.service-icon {
+    font-size: 50px;
+    padding: 5px;
+    color: #f36969;
+}
+
+.single-service-box h5 {
+    font-size: 18px;
+}
+
+.single-service-box p {
+    color: #8b8686;
+    font-size: 14px;
+}
+
+.single-service-box {
+    font-family: 'Poppins';
+    padding: 15px;
+    border: 1px solid #e9e8e8;
+    border-radius: 3px;
+    margin: 60px 0;
+}
+/*Service Box End*/
+.silon h2 {padding: 70px 0 40px 0;}
+
+.immage_part p {
+    margin-top: 15px;
+    font-size: 13px;
+    letter-spacing: 1px;
+}
+i.fas.fa-box {
+    color: #8d8989;
+    padding: 10px 10px 10px 0px;
+}
+
+.comment_part a {
+    text-decoration: none;
+    color: #939393;
+}
+
+i.fas.fa-comment-alt {
+    padding: 10px 10px 10px 0px;
+}
+.follow .container {
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.follow h2 {
+    padding-bottom: 70px;
+}
+.follow .container {
+    margin-top: 80px;
+}
+
+.follow h2 {
+    padding-bottom: 50px;
+}
+
+.trending .container {
+    margin-top: 50px;
+}
+
+.trending h2 {
+    padding-bottom: 50px;
+}
+.featured .container {
+    margin-top: 70px;
+}
+
+.popular .container {
+    margin-top: 50px;
+}
+
+/*Footer Section*/
+.footer_sec .container {
+    padding: 30px;
+}
+
+.footer_sec {
+    background: rgb(247, 241, 226);
+}
+
+.footer_sec ul {
+    list-style: none;
+    color:#717374;
+    font-family: 'Poppins';
+    font-size: 15px;
+}
+
+.footer_sec h4 {
+    padding: 20px 30px;
+}
+.footer_sec ul li {
+    padding: 5px 0;
+}
+.experience h4 {
+    padding: 20px 5px;
+}
+
+.social_media {
+    font-size: 30px;
+    color: #727070;
+    padding: 10px 1px;
+}
+
+.social_media i {
+    padding: 5px;
+}
+.end_line p {
+    font-family: 'Poppins';
+    margin-top: 40px;
+}
+
+.end_line span {
+    color: red;
+}
+.navbar-nav li {
+    font-size: 17px;
+    font-family: 'Poppins';
+    padding: 10px;
+    letter-spacing: 1px;
+}
+
+.social-links a {
+    color: #767676;
+    font-size: 20px;
+}
+
+.navbar {
+    background: #ededed;
+    padding: 20px;
+}
